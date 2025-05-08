@@ -1,17 +1,17 @@
 <resources>
-    <string name="app_name">Mobpro 1</string>
-    <string name="list_kosong">Belum ada data</string>
+    <string name="app_name"> assesment 2 mopbro</string>
+    <string name="list_kosong">Belum ada anggota</string>
     <string name="x_diklik">%1$s diklik!</string>
-    <string name="tambah_catatan">Tambah catatan</string>
+    <string name="tambah_catatan">Tambah anggota</string>
     <string name="judul">Nama Anggota</string>
-    <string name="isi_catatan">Isi Catatan</string>
+    <string name="isi_catatan">Isi anggota</string>
     <string name="kembali">Kembali</string>
     <string name="simpan">Simpan</string>
-    <string name="edit_catatan">Ubah catatan</string>
-    <string name="invalid">Judul dan isi catatan tidak boleh kosong.</string>
+    <string name="edit_catatan">Ubah anggot</string>
+    <string name="invalid">Judul dan isi anggota tidak boleh kosong.</string>
     <string name="lainnya">Opsi lainnya</string>
-    <string name="hapus">Hapus catatan</string>
-    <string name="pesan_hapus">Hapus catatan ini?</string>
+    <string name="hapus">Hapus anggota</string>
+    <string name="pesan_hapus">Hapus anggota ini?</string>
     <string name="tombol_hapus">Hapus</string>
     <string name="tombol_batal">Batal</string>
     <string name="list">Tampilan list</string>
